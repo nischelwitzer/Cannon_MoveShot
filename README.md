@@ -1,11 +1,13 @@
 # Cannon_MoveShot Force, Move aka "Brick Shooter"
 Cannon Move and Shot Example [^1] and [^2].
 
-1. Cannon Movement (old InputSystem)
-1. Ball as Prefab
+1. Cannon Movement (done with the old Unity InputSystem)
+1. create a small Ball as "Prefab"
 2. Shooting
-   - clone the prefab with: Instantiate
-   - add the shoot power: AddForce (in the correct direction)
+   - clone the prefab with: *Instantiate*
+   - add the shoot power: *AddForce* (in the correct direction)
+
+You can find the [whole code here](./scripts/MoveAndShot.cs)!
 
 <img src="./cannon_shot.png" widht="500">
 
