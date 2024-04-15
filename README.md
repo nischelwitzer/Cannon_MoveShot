@@ -1,8 +1,10 @@
 # Cannon_MoveShot Force, Move 
-Cannon Move and Shot Example [^1].
+Cannon Move and Shot Example [^1] and [^2].
 
 1. Cannon Movement (old InputSystem)
 1. Ball as Prefab
+
+<img src="./cannon_shot.png" widht="500">
 
 > [!TIP]
 > "Ball" Prefab destroys himself.
@@ -32,3 +34,5 @@ shot.AddForce(shotPos.forward * shotForce);
 ### Notes
 
 [^1]: Code from 2021: \01_unity\2021_dmt3\ex06_force_shot\Assets\04_force
+[^2]: and \01_unity\2021_dmt3\ex00_code_examples\Assets\04_force
+
