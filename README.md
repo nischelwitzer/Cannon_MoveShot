@@ -1,4 +1,4 @@
-# Cannon_MoveShot Force, Move 
+# Cannon_MoveShot Force, Move aka "Brick Shooter"
 Cannon Move and Shot Example [^1] and [^2].
 
 1. Cannon Movement (old InputSystem)
