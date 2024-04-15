@@ -10,9 +10,9 @@ Cannon Move and Shot Example [^1] and [^2].
 > "Ball" Prefab destroys himself.
 > When destroyed no "Sound" is available for playing!
    
-## Main Code
+## Main Code in Script: MoveAndShot.cs
 
-Movement of the Object (Cannon):
+Movement of the Object (Cannon) [see the MoveAndShot.cs Script](./scripts/MoveAndShot.cs):
 
 ```
 float h = Input.GetAxis("Horizontal"); // gamepad 
