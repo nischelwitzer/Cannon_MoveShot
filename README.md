@@ -3,6 +3,9 @@ Cannon Move and Shot Example [^1] and [^2].
 
 1. Cannon Movement (old InputSystem)
 1. Ball as Prefab
+2. Shooting
+   - clone the prefab with: Instantiate
+   - add the shoot power: AddForce (in the correct direction)
 
 <img src="./cannon_shot.png" widht="500">
 
